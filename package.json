@@ -1,0 +1,24 @@
+{
+  "name": "testingNodejsMochaChai",
+  "version": "1.0.0",
+  "description": "following this tutorial : https://stackabuse.com/testing-node-js-code-with-mocha-and-chai/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanssenstijn/testingNodejsMochaChai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanssenstijn/testingNodejsMochaChai/issues"
+  },
+  "homepage": "https://github.com/hanssenstijn/testingNodejsMochaChai#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1"
+  }
+}
