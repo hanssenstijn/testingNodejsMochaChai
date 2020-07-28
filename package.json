@@ -19,6 +19,7 @@
   "homepage": "https://github.com/hanssenstijn/testingNodejsMochaChai#readme",
   "dependencies": {
     "chai": "^4.2.0",
-    "mocha": "^8.0.1"
+    "mocha": "^8.0.1",
+    "sinon": "^9.0.2"
   }
 }
