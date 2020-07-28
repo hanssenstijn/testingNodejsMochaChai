@@ -1,6 +1,8 @@
 const sandbox = require('sinon').createSandbox();
 const myAPI = { hello: function () { } };
 
+x = 'test'
+
 describe('myAPI.hello method', function () {
 
   // stub out the hello world method
